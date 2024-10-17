@@ -1,0 +1,10 @@
+.box {
+    width: 500px;
+    height: 500px;
+    background: palegreen;
+    padding: 20px 50px 0;
+}
+
+.textFont {
+ font-family: 'SixtyfourConvergence';
+}
